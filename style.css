@@ -148,7 +148,7 @@ cursor: pointer;
 .header {
   height: 650px;
   padding-top: 64px;
-  background-image: url('./assets/images/bg-mobile.jpg');
+  background-image: url('./assets/images/mobile/image-hero.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -275,7 +275,7 @@ cursor: pointer;
 @media (min-width: 750px) {
   /* === Header === */
   .header {
-    background-image: url('./assets/images/bg-desktop.jpg');
+    background-image: url('./assets/images/desktop/image-hero.png');
     background-position: center;
   }
 
